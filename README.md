@@ -1,6 +1,8 @@
 # Dataset
 We use publicly available benchmark datasets which is  is available at the link:
 https://www.kaggle.com/abhinav89/telecom-customer/data
+I uploade the data -Telecom_customer churn (100000).rar here.
+
 
 # Coding
 1. Baseline(RAW)-cross-validation.ipynb is used for RAW CCP model implementation.
